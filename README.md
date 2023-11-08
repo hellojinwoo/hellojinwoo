@@ -13,6 +13,5 @@ Here are some ideas to get you started:
 
 - ⚡ Fun fact
      -  My hobby is learning statistics and would like to interpret the world through the lens of statistics. 
-     -  You can see my articles on the blog https://hellojinwoo.github.io
 - 📫 How to reach me
      - Please send me a mail to hellojinwoo@snu.ac.kr
