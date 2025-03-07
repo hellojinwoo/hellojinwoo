@@ -11,7 +11,7 @@
 Here are some ideas to get you started:
 -->
 
-- ⚡ Fun fact
-     -  My hobby is learning statistics and would like to interpret the world through the lens of statistics. 
+- 🌱 My interest
+     -  I am interested in Python, Docker and cloud computing. 
 - 📫 How to reach me
      - Please send me a mail to hellojinwoo@snu.ac.kr
